@@ -7,4 +7,3 @@
 > 4. Palindrome number.
 > 5. Prime numbers in a specified range.
 > 6. Reverse a number.
-
